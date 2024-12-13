@@ -1,0 +1,9 @@
+#### Gate2 initial settings ####
+rootfile    anaGa67/Ga67Data3_no1714/g4radware.root
+histname    hg2xyp hg2xy hg2xyb
+ncanvas     5            
+xmin       0
+xmax       2500         
+npeaks      30                
+dge        2
+opencross    2
