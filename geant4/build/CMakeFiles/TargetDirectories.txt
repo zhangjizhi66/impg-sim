@@ -1,3 +1,0 @@
-/home/zhangjizhi/data/G4_IMP/geant4/build/CMakeFiles/rebuild_cache.dir
-/home/zhangjizhi/data/G4_IMP/geant4/build/CMakeFiles/edit_cache.dir
-/home/zhangjizhi/data/G4_IMP/geant4/build/CMakeFiles/geant4.dir
